@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/oussamanajem1" target="blank"><img src="https://img.shields.io/twitter/follow/oussamanajem1?logo=twitter&style=for-the-badge" alt="oussamanajem1" /></a> </p>
 
-- 🌱 I’m currently learning **Node Js, Mongodb and Java**
+- 🌱 I’m currently learning **Laravel, Mongodb and Tailwindcss**
 
 - 💬 Ask me about **Anything!**
 
